@@ -22,7 +22,6 @@ body {
 .header-image {
     display: block;
     width: 100%;
-    height: 90%;
     text-align: center;
     -webkit-transition: opacity 1s ease-in-out;
     -moz-transition: opacity 1s ease-in-out;
