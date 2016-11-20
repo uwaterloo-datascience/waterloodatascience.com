@@ -12,13 +12,17 @@ body {
     display: block;
     width: 100%;
     text-align: center;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    color: #fff;
+    color: #e6fff9;
     text-align: center;
-    background-color: #fff;
+    background-color: #e6fff9;
 
 }
 
