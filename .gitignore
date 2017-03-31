@@ -1,1 +1,6 @@
 	_site/
+	.idea/
+	.idea/modules.xml
+	.idea/vcs.xml
+	.idea/waterloodatascience.com.iml
+	.idea/workspace.xml
