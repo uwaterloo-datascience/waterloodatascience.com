@@ -1,5 +1,6 @@
 	_site/
 	.idea/
+	.DS_Store
 	.idea/modules.xml
 	.idea/vcs.xml
 	.idea/waterloodatascience.com.iml
